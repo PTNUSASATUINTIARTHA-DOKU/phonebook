@@ -8,4 +8,4 @@ phonebook live coding
 5. As a user, saya bisa mendelete contact pada phonebook apps.  
 
 
-** Spec API : https://app.swaggerhub.com/apis-docs/DOKUTECHNOLOGY/phonebook-api/1.0.0
+** API Spec : https://app.swaggerhub.com/apis-docs/DOKUTECHNOLOGY/phonebook-api/1.0.0
